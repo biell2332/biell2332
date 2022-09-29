@@ -1,4 +1,4 @@
-eu  sou Gabriel 
+#Sobre mim
 
 
 
@@ -8,6 +8,7 @@ eu  sou Gabriel
 
 
 
+Eu sou Gabriel..
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
